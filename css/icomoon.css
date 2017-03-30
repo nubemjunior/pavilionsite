@@ -1,4 +1,4 @@
-@font-face {
+icon-screen-desktop@font-face {
 	font-family: 'icomoon';
 	src:url('../fonts/icomoon/icomoon.eot?qtatmt');
 	src:url('../fonts/icomoon/icomoon.eot?qtatmt#iefix') format('embedded-opentype'),
@@ -21,6 +21,7 @@
 	/* Better Font Rendering =========== */
 	-webkit-font-smoothing: antialiased;
 	-moz-osx-font-smoothing: grayscale;
+	
 }
 
 .icon-glass:before {
